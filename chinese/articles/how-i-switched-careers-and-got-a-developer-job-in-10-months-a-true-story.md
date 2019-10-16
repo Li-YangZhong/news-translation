@@ -29,15 +29,15 @@
 
 #### Origin story
 
-It all started with an animated conversation with my partner. She was exploring the causes behind the low numbers of women in STEM and especially in tech. She decided to do something about it by becoming a programmer herself. She wanted to be a model for younger girls in our family. And just like that she started learning about it.
+后面发生的这一切源于我和我的伴侣的一次谈话。她当时在研究STEM(科学，技术，工业，数学)，尤其是技术行业中女性从业者偏少的原因。为了改变这种现状，她觉得自己转型成为程序员。她想成为我们家庭中女孩子的模范。就这样，她开始了学习过程。
 
-That soon excited me too, as we realized that there are plenty of resources available. This wasn’t some dark art, but a skill that we could learn and master.
+很快，我也被触动了，我们发现可以利用的资源有很多。编程并不神秘，它是一门我们所有人都可以学习并掌握的技能。
 
-Spoiler alert, she also managed a career change from HR and in fact  [got a developer job][1]a month before I did.
+剧透,她也成功的从人事成功转行，比我早1一个月[获得了一份开发者的工作][1]。
 
-And so, one day we found a children’s book about programming in a science museum. We went back home, opened Notepad, wrote  `<h1>Hello Worl`d</h1> opened it in the browser and t`hen change`d color: red. We were screaming with excitement! What witchcraft was that!
+有一天，我们在一个科技馆内发现了一本关于编程的童书。我们回到家之后，打开电脑上的记事本软件，写下 `<h1>Hello Worl`d</h1> 然后再浏览器中打开，并把文字颜色改成了红色。我们兴奋的大声尖叫！真是太不可思议了！
 
-I was hooked. I wanted to make stuff with code, I wanted computers to do things I said!
+我迷上了编程。我想要用代码来创造，我想要电脑听我指挥！
 
 #### My previous job
 
