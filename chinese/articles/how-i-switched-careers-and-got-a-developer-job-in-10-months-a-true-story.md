@@ -3,11 +3,11 @@
 > * 译者：Li-YangZhong
 > * 校对者：
 
-![How I switched careers and got a developer job in 10 months: a true story](https://cdn-media-1.freecodecamp.org/images/1*P9eWpGDxFMTN2ApRQteOpg.jpeg)
+![我是如何在 10 个月内转行成为开发者的:一个真实的故事](https://cdn-media-1.freecodecamp.org/images/1*P9eWpGDxFMTN2ApRQteOpg.jpeg)
 
-This is how I career changed to front-end development at 40, starting with no relevant background experience or degree. I used only self-directed study while working full-time and spending next to nothing.
+这篇文章讲述的是我在40岁的时候如何转换做前端开发的故事。我之前没有任何的相关经验和学历，在自学的同时我还做着一份全职工作，整个过程几乎没有花一分钱。
 
-> “ I’m sitting in a café in the heart of Madrid, having a cup of coffee, tapping away at my laptop while it rains outside. In a few moments I will walk into my first day as a front-end developer. 10 months ago I was an English teacher in Granada who knew nothing about programming, and now I’m here. How did this happen?”
+> “ 坐在马德里市中心的一个咖啡馆里，手边放一杯咖啡，敲打键盘的声音伴着外面的雨声。 再过一会，我就要正式开始自己作为前端开发者的第一天的工作。10个月前我是格拉纳达的一名英文老师，对编程一窍不通，面对现在的我自己，你肯定要问我是怎么做到的？”
 
 I wrote those excited words a few months ago as I was getting ready to start my first day at my new job. Come along with me as I share with you my journey of how I got here.
 
