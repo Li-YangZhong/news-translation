@@ -9,15 +9,15 @@
 
 > “ 坐在马德里市中心的一个咖啡馆里，手边放一杯咖啡，敲打键盘的声音伴着外面的雨声。 再过一会，我就要正式开始自己作为前端开发者的第一天的工作。10个月前我是格拉纳达的一名英文老师，对编程一窍不通，面对现在的我自己，你肯定要问我是怎么做到的？”
 
-I wrote those excited words a few months ago as I was getting ready to start my first day at my new job. Come along with me as I share with you my journey of how I got here.
+上面的这些文字是几个月前我开始自己的新工作的时候写下的。如果你像知道我这一路是怎么一步一步走下来的，就请继续读下去吧。
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*Qf68OyUJggEvunHepyoRLg.jpeg)
 
 ### Feeling special
 
-When I first started thinking about becoming a developer, I would read articles like this one with a bit of skepticism. I kept on looking for something in the writer’s background that made them “special”. That made them suited for this job. Something that I didn’t have.
+一开始我考虑成为开发者的时候，面对这样的文章我会心存疑虑。我一直觉得作家有其特别之处，他们有某种特质，这种特质我并不具备。
 
-I have since come to understand that this is not how it works. There aren’t any “special” requirements to becoming a developer. I’m not going to tell you it’s easy, because it isn’t. But the good news is that all the requirements are things that are in everyone’s reach. You have to be willing to work hard, learn a lot, and be consistent. You need to persist when things get tough. Talk yourself out of the moments of desperation when you feel like you are not cut out for this. That’s all it takes, and everyone can do these things with a bit of practice.
+慢慢地我开始意识到，事实并非如此。我不打算告诉你这很容易做到，因为成为一名开发者并不是一件容易的是。但是值得庆幸的是成为开发者的条件所有人都具备。你必须要努力，多吸收知识，坚持不懈。You need to persist when things get tough. 面对困难的时候，你需要坚持下去。当你的意志开始动摇时，你必须为自己加油打气。成功靠的就是这么几点，只要稍加练习，所有人都可以做到。
 
 I started with no related background study. I had no money to spend on expensive courses, no time in my already busy day, and I was already almost middle aged. Everyone’s circumstances are different, but I learned that if you put your mind to it, you can do it.
 
