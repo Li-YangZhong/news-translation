@@ -19,13 +19,13 @@
 
 慢慢地我开始意识到，事实并非如此。我不打算告诉你这很容易做到，因为成为一名开发者并不是一件容易的事。但是值得庆幸的是成为开发者的条件所有人都具备。你必须要努力，多吸收知识，坚持不懈。面对困难的时候，你需要坚持下去。当你的意志开始动摇时，你必须为自己加油打气。成功靠的就是这么几点，只要稍加练习，所有人都可以做到。
 
-I started with no related background study. I had no money to spend on expensive courses, no time in my already busy day, and I was already almost middle aged. Everyone’s circumstances are different, but I learned that if you put your mind to it, you can do it.
+刚开始的时候我没有任何相关知识背景。没有钱用来购买昂贵的课程，繁忙的工作之外几乎没有空闲时间，另外我已经差不多临近中年。每个人的情况都不同，但是我现在明白一个道理，如果你下决心要实现某件事的话，你一定可以实现它。
 
-### Background
+### Background背景
 
-On the day I wrote my first line of code, I had never done any programming before or had any contact with it. I had an early career in the restaurant business. Then I got a degree in Music technology, followed by a decade as an ESL teacher in Spain. I wasn’t even particularly skilled with computers. I did always feel excited by the latest tech ideas. And I considered programmers the modern day superheroes.
+在我写第一行代码之前我没有接触过任何和编程相关的工作。最初我在餐饮业工作。然后我取得了音乐技术学位，后来又在西班牙当了10年的英语老师。我对电脑了解的很少。但是是我对最新的科技新闻很感兴趣。我认为程序员是现在社会的英雄。
 
-I never contemplated doing it myself, though. Partly because I thought coding was some kind of an elite activity. Something for gifted individuals who graduate from top (and expensive) universities. While individuals like this do exist, the majority of developers aren’t that Hollywood hacker type. Development is far more accessible than I believed.
+但是我从没有设想过自己有一天会成为程序员。一方面是因为我觉得编程不是一般人能从事的工作，只有那些从顶尖（贵族）学校毕业的高才生才能胜任。的确有一部分人来自这个群体，但是大部分的程序员并不是好莱坞电影里描绘的黑客类型。从事开发工作的门槛其实比我想象的要低很多。
 
 #### Origin story
 
