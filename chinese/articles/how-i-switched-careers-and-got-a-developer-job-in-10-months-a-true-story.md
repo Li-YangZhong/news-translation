@@ -17,7 +17,7 @@
 
 一开始我考虑成为开发者的时候，面对这样的文章我会心存疑虑。我一直觉得作家有其特别之处，他们有某种特质，这种特质我并不具备。
 
-慢慢地我开始意识到，事实并非如此。我不打算告诉你这很容易做到，因为成为一名开发者并不是一件容易的是。但是值得庆幸的是成为开发者的条件所有人都具备。你必须要努力，多吸收知识，坚持不懈。You need to persist when things get tough. 面对困难的时候，你需要坚持下去。当你的意志开始动摇时，你必须为自己加油打气。成功靠的就是这么几点，只要稍加练习，所有人都可以做到。
+慢慢地我开始意识到，事实并非如此。我不打算告诉你这很容易做到，因为成为一名开发者并不是一件容易的事。但是值得庆幸的是成为开发者的条件所有人都具备。你必须要努力，多吸收知识，坚持不懈。面对困难的时候，你需要坚持下去。当你的意志开始动摇时，你必须为自己加油打气。成功靠的就是这么几点，只要稍加练习，所有人都可以做到。
 
 I started with no related background study. I had no money to spend on expensive courses, no time in my already busy day, and I was already almost middle aged. Everyone’s circumstances are different, but I learned that if you put your mind to it, you can do it.
 
@@ -127,31 +127,4 @@ You can also check out  [My Learning Tracker][5]  GitHub repo. It has a full lis
 
 ### Getting a job
 
-Surprisingly, for me, this part was not overly complex. I didn’t send masses of CVs, or spend hours looking for jobs. Instead I opted for being selective and focused.
-
-In the end I entered five interview processes. I got rejected from one, and failed to finish the take-home challenge of another. I completed three, and got three out of three offers. One of these was completely inadequate and unattractive. The other two, arriving almost at the same time, were both very interesting offers. One of them is my current job.
-
-I don’t mean to sound nonchalant about this. It was an intense time. I still had no idea if my skills were anywhere near being employable or not. I entered processes not even sure if I was going to be laughed at for how little experience I had. It was a nerve-racking time, but it was an exciting and hopeful time too. And when I finally found myself with two actual good offers on the table I was elated and could hardly believe it.
-
-I will always be eternally grateful to the individuals who made these decisions and decided to give me a chance.
-
-The interview process in the two companies was very different. One was a series of video calls to talk to various people at the company. It was a small but well-established company hoping to build a new team of front-end developers. After a few weeks of back and forth, they made me my first real offer.
-
-The other was a young startup in the middle of great growth. After a phone interview I got sent a technical challenge to complete within few days. It involved building a component, making API calls, and showing the correct information. Then came a video chat about the code I wrote. Then I got invited to have a drink with the tech team to find out if we click. After which I got an offer to join as a junior front-end.
-
-In the end I had to choose. Which was a luxury I couldn’t believe I got. But I knew what I wanted, I took the offer with the  [startup][6]  based on one main point: they seemed to be very clear on the importance of mentorship and giving me guidance to grow and learn. That was the key. And it definitely was the right choice.
-
-And so, on that rainy day in Madrid, after finishing my coffee. I walked into an office in the business area, introduced myself as the new front-end developer, and started my new career.
-
-_I hope you enjoyed my story. If you did, you would make me happy if you give it some of those tasty claps. And you could even make my day by sharing it so more people can read it and learn they too can make it. I want to keep writing more of these articles. So if there is any particular aspect of this process you would like to know more about, I would love to hear about it. Come and say hi on  [Twitter][7]  @Syknapse_
-
-[Check out my article about all the resources I used to get this job.][8]
-
-[1]: https://twitter.com/Elena_in_code/status/973319215196368896
-[2]: https://twitter.com/Syknapse
-[3]: https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f
-[4]: https://twitter.com/hashtag/100daysofcode?f=tweets&vertical=default&lang=en
-[5]: https://github.com/Syknapse/My-Learning-Tracker-first-ten-months
-[6]: https://twitter.com/LolaMarket_tech
-[7]: https://twitter.com/Syknapse
-[8]: https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f
+Surprisingl
